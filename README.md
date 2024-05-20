@@ -5,6 +5,7 @@ Safemarket License
 - 💬 Discord: [safemarket.xyz/discord](https://safemarket.xyz/discord)
 - 📧 Email: support-checkout@safemarket.xyz
 
-<video width="600" controls>
-  <source src="https://github.com/Jodis974/Transformice-Discord-Rich-Presence/blob/main/D6.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/Jodis974/Transformice-Discord-Rich-Presence/assets/132891555/f9b7ca6b-dea6-42d0-ad38-6af2d5dc2c6c
+
