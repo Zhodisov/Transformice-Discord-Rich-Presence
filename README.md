@@ -1,3 +1,21 @@
+Update: 
+
+![image](https://github.com/user-attachments/assets/1b2b295d-5d6e-4eee-84e8-859e28bd4621)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Transformice-Discord-Rich-Presence
 Safemarket License
 
